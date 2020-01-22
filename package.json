@@ -1,6 +1,6 @@
 {
   "name": "com.arsenstudio.pathcreator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Path Creator",
   "unity": "2018.1",
   "dependencies": {
